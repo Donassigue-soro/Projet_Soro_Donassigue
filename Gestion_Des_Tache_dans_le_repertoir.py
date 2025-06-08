@@ -6,11 +6,6 @@
 #	Marquer une tâche comme terminé et vous pouvez egalement supprimé une tâche.
 
 
-# Etapes 1 : Planification de la structure 
-
-# Nous voulons stocker les tâches dans un dictionnaire ou un fichier texte avec des identifiants uniques et chaque tâche a un titre et un statut qui sera soit complet, soit incomplet.
-
-
 # importons le module os
 
 import os
